@@ -12,7 +12,7 @@ Any additional information required to reanalyze the data reported in this paper
 
 ## Directory Structure
 
-- `ai_code/`: Contains the scripts and code related to the artificial intelligence and machine learning models.
+- `classification_code/`: Contains the scripts and code related to the artificial intelligence and machine learning models.
 - `feature_extraction_pipeline/`: Contains the scripts and code related to the steps and feature extraction pipeline for preprocessing and analyzing the data.
 
 ## Usage
