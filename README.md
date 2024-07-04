@@ -21,4 +21,4 @@ Any additional information required to reanalyze the data reported in this paper
 
 To clone the repository, run the following command:
 ```bash
-git clone https://github.com/yourusername/dFNCheritability.git
+git clone https://github.com/yahyayounus/dFNCheritability.git
